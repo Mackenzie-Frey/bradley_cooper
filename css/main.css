@@ -9,6 +9,7 @@
   padding: 1vw 2.5vw;
   background-color: grey;
   color: white;
+  font-family: "Monaco";
 }
 
 .picture-container{
@@ -46,24 +47,42 @@
 .experience-container{
   grid-area: experience;
   background-color: #38B1ED;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .education-container{
   grid-area: education;
   background-color: #ff4d4d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .blog-container{
   grid-area: blog;
   background-color: #6fdc6f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .social-container{
   grid-area: social-menu;
   background-color: #E25858;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .contact-container{
   grid-area: contact;
   background-color: #38B1ED;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .portfolio-container{
   grid-area: portfolio;
   background-color: #E25858;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
